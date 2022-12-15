@@ -23,9 +23,11 @@ PIL и др.) и нативно на Python + |с использованием N
 Для каждого способа были заданы границы цветов:
 
 PIL/numpy
+
 ![](expts/colors.png)
 
 C++
+
 ![](expts/colors_cpp.png)
 
 ### PIL
